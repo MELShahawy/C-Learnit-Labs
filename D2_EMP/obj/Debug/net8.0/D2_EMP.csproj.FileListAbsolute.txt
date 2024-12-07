@@ -1,0 +1,14 @@
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\bin\Debug\net8.0\D2_EMP.exe
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\bin\Debug\net8.0\D2_EMP.deps.json
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\bin\Debug\net8.0\D2_EMP.runtimeconfig.json
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\bin\Debug\net8.0\D2_EMP.dll
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\bin\Debug\net8.0\D2_EMP.pdb
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\D2_EMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\D2_EMP.AssemblyInfoInputs.cache
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\D2_EMP.AssemblyInfo.cs
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\D2_EMP.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\D2_EMP.dll
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\refint\D2_EMP.dll
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\D2_EMP.pdb
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\D2_EMP.genruntimeconfig.cache
+C:\Users\DELL 5510\source\repos\LearnIt\D2_EMP\obj\Debug\net8.0\ref\D2_EMP.dll

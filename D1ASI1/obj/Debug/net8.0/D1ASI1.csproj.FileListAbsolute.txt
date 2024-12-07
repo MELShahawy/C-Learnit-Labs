@@ -1,0 +1,14 @@
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\bin\Debug\net8.0\D1ASI1.exe
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\bin\Debug\net8.0\D1ASI1.deps.json
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\bin\Debug\net8.0\D1ASI1.runtimeconfig.json
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\bin\Debug\net8.0\D1ASI1.dll
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\bin\Debug\net8.0\D1ASI1.pdb
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\D1ASI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\D1ASI1.AssemblyInfoInputs.cache
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\D1ASI1.AssemblyInfo.cs
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\D1ASI1.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\D1ASI1.dll
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\refint\D1ASI1.dll
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\D1ASI1.pdb
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\D1ASI1.genruntimeconfig.cache
+C:\Users\DELL 5510\source\repos\LearnIt\D1ASI1\obj\Debug\net8.0\ref\D1ASI1.dll
